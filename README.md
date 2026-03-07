@@ -92,6 +92,7 @@ Contributions are welcome! If you'd like to improve the model (e.g., trying tree
 
 ## 📜 License
 This project is open-source and available under the MIT License. See `LICENSE` for more information.
+
 ---
 
 ## 📬 Contact
